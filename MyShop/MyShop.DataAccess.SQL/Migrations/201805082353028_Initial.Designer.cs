@@ -13,7 +13,7 @@ namespace MyShop.DataAccess.SQL.Migrations
         
         string IMigrationMetadata.Id
         {
-            get { return "201805082343595_Initial"; }
+            get { return "201805082353028_Initial"; }
         }
         
         string IMigrationMetadata.Source
